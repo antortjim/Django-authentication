@@ -27,7 +27,7 @@ SECRET_KEY = 'zo02yp1)qtn@zl&8q0n2pkl(&^n@o0o5$819gyimql221b2vm7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['antortjim.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
